@@ -19,7 +19,7 @@ public class Num {
 		boolean b = false;
 	}
 	
-	public void estaMerdaNaoFunciona() {
+	public void istaNaoFunciona() {
 		boolean fds = true;
 	}
 }
