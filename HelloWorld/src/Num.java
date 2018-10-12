@@ -6,4 +6,8 @@ public class Num {
 	public Num(int number) {
 		this.number = number;
 	}
+	
+	public void printer () {
+		System.out.println(number);
+	}
 }
