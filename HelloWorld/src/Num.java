@@ -18,4 +18,8 @@ public class Num {
 	public void souAindaMelhor() {
 		boolean b = false;
 	}
+	
+	public void estaMerdaNaoFunciona() {
+		boolean fds = true;
+	}
 }
