@@ -10,4 +10,8 @@ public class Num {
 	public void printer () {
 		System.out.println(number);
 	}
+	
+	public void souTodoBom(){
+		boolean a = true;
+	}
 }
