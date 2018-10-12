@@ -14,4 +14,8 @@ public class Num {
 	public void souTodoBom(){
 		boolean a = true;
 	}
+	
+	public void souAindaMelhor() {
+		boolean b = false;
+	}
 }
